@@ -1,0 +1,7 @@
+# No subir datos personales ni el código sin cifrar
+*.csv
+*.xlsx
+*.xls
+*.txt
+fuente/
+.clave
